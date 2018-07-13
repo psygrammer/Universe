@@ -1,0 +1,3 @@
+[submodule "UnityRL/ml-agents"]
+	path = UnityRL/ml-agents
+	url = https://github.com/Unity-Technologies/ml-agents.git
