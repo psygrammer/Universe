@@ -4,3 +4,4 @@
 * https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Using-Docker.md
 * https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md
 * https://wonseokjung.github.io/unity/update/unity-2/
+* https://medium.com/@indiecontessa/setting-up-a-python-environment-with-tensorflow-on-macos-for-training-unity-ml-agents-faf19d71201
