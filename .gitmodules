@@ -1,3 +1,6 @@
 [submodule "UnityRL/ml-agents"]
 	path = UnityRL/ml-agents
 	url = https://github.com/Unity-Technologies/ml-agents.git
+[submodule "UnitySelfDrivingCar/self-driving-car"]
+	path = UnitySelfDrivingCar/self-driving-car
+	url = https://github.com/udacity/self-driving-car.git
