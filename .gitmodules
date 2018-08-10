@@ -4,3 +4,6 @@
 [submodule "UnitySelfDrivingCar/self-driving-car"]
 	path = UnitySelfDrivingCar/self-driving-car
 	url = https://github.com/udacity/self-driving-car.git
+[submodule "UnitySelfDrivingCar/CarND-Term1-Starter-Kit"]
+	path = UnitySelfDrivingCar/CarND-Term1-Starter-Kit
+	url = https://github.com/udacity/CarND-Term1-Starter-Kit.git
