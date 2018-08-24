@@ -2,9 +2,9 @@
 
 유니티 기초 & 머신러닝 응용
 
-* [유니티 기초](/UnityBasic/README.md) 
-* [유니티 RL](/UnityRL/README.md) 
-* [유니티 자율주행](/UnitySelfDrivingCar/README.md)
+* [유니티 기초](/UnityBasic/) 
+* [유니티 RL](/UnityRL/) 
+* [유니티 자율주행](/UnitySelfDrivingCar/)
   
 ----------------
 
